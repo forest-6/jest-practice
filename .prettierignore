@@ -1,0 +1,10 @@
+package.json
+yarn.lock
+*.md
+public/ckeditor5/
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+.nuxt
+dist

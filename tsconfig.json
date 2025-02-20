@@ -1,0 +1,10 @@
+{
+  // https://nuxt.com/docs/guide/concepts/typescript
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "types": ["@nuxt/types", "vue"],
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": ["node_modules"]
+}
