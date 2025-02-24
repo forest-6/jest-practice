@@ -3,7 +3,7 @@
   "extends": "./.nuxt/tsconfig.json",
   "compilerOptions": {
     "moduleResolution": "node",
-    "types": ["@nuxt/types", "vue"],
+    "types": ["@nuxt/types", "vue", "jest"],
     "allowSyntheticDefaultImports": true
   },
   "exclude": ["node_modules"]
